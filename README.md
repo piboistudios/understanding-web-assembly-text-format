@@ -12,5 +12,6 @@ If you haven't read the guide already and know nothing about Web Assembly, Web A
 
 You need Node.js and that's about it. Navigate to the root directory of the project and run the server with:
 ```
-node server <port>
+node server <PORT>
 ```
+Then navigate to http://localhost:<PORT>/
